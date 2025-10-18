@@ -61,7 +61,7 @@ Each problem solution should include:
 
 | Difficulty | Solved | Total |
 |------------|--------|-------|
-| Easy       | 1      | 1-    |
+| Easy       | 1      | 1     |
 | Medium     | 0      | -     |
 | Hard       | 0      | -     |
 
